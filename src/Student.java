@@ -4,6 +4,7 @@ public class Student {
     int redNo;
     int phNo;
 
+    //constructor to take values during object creation
     Student(String n,String d,int r,int p){
         this.name = n;
         this.department=d;
